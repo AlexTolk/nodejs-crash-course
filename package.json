@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "Nodejs crash course from Traversy Media",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Alex Tolkachev",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
